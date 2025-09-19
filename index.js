@@ -1,0 +1,1 @@
+//ler conventional commits para boas práticas de commit no git
